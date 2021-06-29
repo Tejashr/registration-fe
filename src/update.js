@@ -118,7 +118,7 @@ function Update(props) {
                         </select>
                     </div>
                 </div>
-                <div className="row">
+                <div className="row mt-2">
                     <input type="submit" className="btn btn-primary col-2 offset-9" value="update" />
                 </div>
             </form>
